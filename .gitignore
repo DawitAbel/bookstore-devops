@@ -1,0 +1,5 @@
+#Python
+#virtualenv
+.pytest_cache
+#Environment
+.DS_Store
